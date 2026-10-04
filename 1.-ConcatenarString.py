@@ -39,3 +39,8 @@ print(res)
 
 #También es posible concatenar más de dos strings a la vez:
 print('Suma: ' + str(1) + ' + 2 = ' + str(1 + 2))
+
+
+
+#También es posible concatenar más de dos strings a la vez:
+print('Suma: ' + str(1) + ' + 2 = ' + str(1 + 2))
